@@ -44,9 +44,13 @@ Main File: `calculator.py`
 
 # Functions:
 `add()`: Adds the entered number to the total.
+
 `min()`: Subtracts the entered number from the total.
+
 `tim()`: Multiplies the total by the entered number.
+
 `div()`: Divides the total by the entered number.
+
 `reset()`: Resets the total to zero.
 
 # Example
