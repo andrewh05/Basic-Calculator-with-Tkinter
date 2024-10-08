@@ -10,7 +10,7 @@ This project is a beginner-friendly calculator built using Python's Tkinter libr
 **Subtraction** (`-`): Subtract the entered number from the total.
 
 **Multiplication** (`*`): Multiply the total by the entered number.
-
+ 
 **Division** (`/`): Divide the total by the entered number.
 
 **Reset** : Clears the total and resets the calculator.
